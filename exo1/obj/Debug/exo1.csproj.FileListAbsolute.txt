@@ -1,0 +1,39 @@
+C:\Users\david\Downloads\TP3\exo1\bin\Debug\exo1.exe.config
+C:\Users\david\Downloads\TP3\exo1\bin\Debug\exo1.exe
+C:\Users\david\Downloads\TP3\exo1\bin\Debug\exo1.pdb
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.csproj.AssemblyReference.cache
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.vue.ConfirmForm.resources
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.Form1.resources
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.Properties.Resources.resources
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.vue.ErrorForm.resources
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.csproj.GenerateResource.cache
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.exe
+C:\Users\david\Downloads\TP3\exo1\obj\Debug\exo1.pdb
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\bin\Debug\exo1.exe.config
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\bin\Debug\exo1.exe
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\bin\Debug\exo1.pdb
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.csproj.AssemblyReference.cache
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.csproj.SuggestedBindingRedirects.cache
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.vue.ConfirmForm.resources
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.Form1.resources
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.Properties.Resources.resources
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.vue.ErrorForm.resources
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.csproj.GenerateResource.cache
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.csproj.CoreCompileInputs.cache
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.exe
+C:\SIO2\C#\2h\TP3 origine - Copie\exo1\obj\Debug\exo1.pdb
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\bin\Debug\exo1.exe.config
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\bin\Debug\exo1.exe
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\bin\Debug\exo1.pdb
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.csproj.AssemblyReference.cache
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.csproj.SuggestedBindingRedirects.cache
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.vue.ConfirmForm.resources
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.Form1.resources
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.Properties.Resources.resources
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.vue.ErrorForm.resources
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.csproj.GenerateResource.cache
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.csproj.CoreCompileInputs.cache
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.exe
+C:\SIO2\C#\2h\Voyage\TP3-TRUE\exo1\obj\Debug\exo1.pdb
